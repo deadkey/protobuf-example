@@ -12,7 +12,7 @@ Install the protobuffer compiler
 
 Clone this repository
  ```bash 
-LOLwat
+git clone https://github.com/deadkey/protobuf-example.git
  ```
 and navigate to the folder in a terminal.
 
